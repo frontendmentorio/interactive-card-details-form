@@ -21,11 +21,6 @@ The designs were created to the following widths:
 - Dark grayish violet: hsl(279, 6%, 55%)
 - Very dark violet: hsl(278, 68%, 11%)
 
-### Back of card
-
-- Grayish blue (CVC strip): hsl(212, 12%, 71%)
-- Very dark gray (magstripe): hsl(0, 0%, 18%)
-
 ## Typography
 
 ### Body Copy
