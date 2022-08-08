@@ -34,6 +34,8 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 - If there are no errors, display the completed state
 - Reset the form when the user clicks "Continue" on the completed state
 
+**⚠️ IMPORTANT ⚠️: When you create the live version of your project, we recommmend giving it a random name for the URL. This is because with it being a fake credit card form, some browsers will open a warning notice before people can access your project. So it's best to name the project something unrelated to credit cards so that browsers don't show the warning to people viewing your project.**
+
 ## Where to find everything
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
